@@ -1,4 +1,3 @@
 <?php
-    mysql_close("bd_site");
-
+    mysqli_close($conexao);
 ?>

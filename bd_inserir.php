@@ -15,7 +15,7 @@
         $strSQL =  $strSQL . "NomeDoUsuario,";
         $strSQL =  $strSQL . "SobrenomeDoUsuario,";
         $strSQL =  $strSQL . "CelularDoUsuario,";
-        $strSQL =  $strSQL . "DataDeNascimentoDoUsuario,";
+        $strSQL =  $strSQL . "DataNascimentoDoUsuario,";
         $strSQL =  $strSQL . "EmailDoUsuario,";
         $strSQL =  $strSQL . "SenhaDoUsuario)";
 
@@ -24,7 +24,7 @@
         $strSQL =  $strSQL . "'Augusto',";
         $strSQL =  $strSQL . "'11-98899-7766',";
         $strSQL =  $strSQL . "'2005-11-15',";
-        $strSQL =  $strSQL . "'felipe.carvalho@etec.sp.gov.br',";
+        $strSQL =  $strSQL . "'exemplooooo04@etec.sp.gov.br',";
         $strSQL =  $strSQL . "'151105lipe');";
 
         // comando SQL Executado
